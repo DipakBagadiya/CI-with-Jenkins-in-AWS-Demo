@@ -6,7 +6,7 @@ pipeline {
             dockerImage = ''
 		PROJECT_ID = 'sigma-bay-285717'
  		CLUSTER_NAME = 'kube-demo'
- 		LOCATION = 'us-central1-c'
+ 		LOCATION = 'europe-west3-a'
  		CREDENTIALS_ID = 'k8-jenkins'
         }
 		
