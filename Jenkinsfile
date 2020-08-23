@@ -4,7 +4,7 @@ pipeline {
             registry = "dipakbagadiya/dockerjenkins"
             registryCredential = 'docker-cred'
             dockerImage = ''
-		PROJECT_ID = 'sigma-bay-285717'
+		PROJECT_ID = 'optimum-door-278613'
  		CLUSTER_NAME = 'kube-demo'
  		LOCATION = 'europe-west3-a'
  		CREDENTIALS_ID = 'sprint6-k8'
