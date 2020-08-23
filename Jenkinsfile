@@ -1,7 +1,7 @@
 pipeline {
         agent any
         environment {
-            registry = "dipakbagadiya/sprint6dockerjenkins"
+            registry = "dipakbagadiya/dockerjenkins"
             registryCredential = 'docker-cred'
             dockerImage = ''
 		PROJECT_ID = 'sigma-bay-285717'
